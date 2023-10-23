@@ -11,10 +11,9 @@ cchardet            2.1.7
 pandas              1.3.4
 session_info        1.0.0
 -----
-
 Click to view modules imported as dependencies
 
-backcall                    0.2.0
+backcall                    0.2.0 \n
 cloudpickle                 2.0.0
 cython_runtime              NA
 dateutil                    2.8.2
