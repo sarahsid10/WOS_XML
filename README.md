@@ -1,5 +1,5 @@
 # WOS_XML
-Jupyter notebooks for extracting specific fields from Clarivate's Web of Science XML dataset (https://clarivate.libguides.com/c.php?g=593069&p=4117305) ino a dataframe and doing some exploratory analyses. The data files cannot be publicly shared, but hopeully the code helps anyone working with data structured similarly. Largely uses the BeautifulSoup library from bs4.
+Jupyter notebooks for extracting specific fields from Clarivate's Web of Science XML dataset (https://clarivate.libguides.com/c.php?g=593069&p=4117305) ino a dataframe and doing some exploratory analyses. The data files cannot be publicly shared, but hopeully the code helps anyone working with data structured similarly. Largely uses the BeautifulSoup library from bs4. This analysis was done as part of an independent study at the University of Rochester under the advisement of Prof. Joseph Ciminelli.
 
 I. Description of Notebooks
 
