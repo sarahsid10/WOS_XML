@@ -1,7 +1,7 @@
 # WOS_XML
 Jupyter notebook for extracting specific fields from Clarivate's Web of Science XML dataset (https://clarivate.libguides.com/c.php?g=593069&p=4117305) ino a dataframe. Largely uses the BeatifulSoup library from bs4.
 
-Platform notes: Used my institution's high performance computing system. GPU partition with 25 CPUs and 90 GB memory.
+Platform notes: Used my institution's high performance computing system. GPU partition, for parsing used 25 CPUs with 90 GB memory.
 
 I. Description of Notebooks
 Notebook Parse_BeautifulSoup_files.ipynb
